@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edigit  <code>src/App.js</code> and save to reload.
+          Edigit  <code>src/App.js</code> and save to reload. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis ea numquam voluptatem facilis quia aperiam.
         </p>
         <a
           className="App-link"
