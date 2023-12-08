@@ -9,6 +9,7 @@ function App() {
         <p>
           Edigit  <code>src/App.js</code> and save to reload. Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet.
           Edigit  <code>src/App.js</code> and save to reloadghghjjhjh. Lorem ipsum dolor sit amet consectetur.
+          Lorem ipsum dolor sit amet consectetur.
         </p>
         <a
           className="App-link"
